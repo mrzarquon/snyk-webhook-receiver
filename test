@@ -1,5 +1,0 @@
-
-# injects homebrew installed binaries infront of apple's
-# added by snyk-barker : 2021-01-29
-export PATH=/usr/local/bin:$PATH
-

@@ -1,3 +1,5 @@
 .vscode*
 .DS*
 .mypy*
+.env
+.deta*

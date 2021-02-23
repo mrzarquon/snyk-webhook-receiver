@@ -110,11 +110,11 @@ async def create_item(
 
     slim_event = cleanup(event.project, event.org, event.newIssues)
 
-    bar = {
+    example = {
         "agent" : user_agent,
         "timestamp": x_snyk_timestamp,
         "signature": x_hub_signature,
         "verify": is_valid,
         "event": slim_event
     }
-    return bar
+    return example

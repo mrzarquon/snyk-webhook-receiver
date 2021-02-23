@@ -1,0 +1,41 @@
+{
+    "project": {
+        "id": "81795aea-7ce4-47bb-bea1-30f2b32a6d90",
+        "name": "mrzarquon/goof:package.json",
+        "created": "2021-01-21T13:21:41.479Z",
+        "origin": "github",
+        "type": "npm",
+        "readOnly": false,
+        "testFrequency": "daily",
+        "totalDependencies": 813,
+        "issueCountsBySeverity": {
+            "low": 1,
+            "high": 6,
+            "medium": 5
+        },
+        "imageId": "",
+        "imageTag": "1.0.1",
+        "imagePlatform": "",
+        "lastTestedDate": "2021-01-22T20:38:05.299Z",
+        "browseUrl": "https://app.snyk.io/org/angrydome/project/81795aea-7ce4-47bb-bea1-30f2b32a6d90",
+        "importingUser": null,
+        "owner": null,
+        "tags": [],
+        "isMonitored": true,
+        "attributes": {
+            "criticality": [],
+            "lifecycle": [],
+            "environment": []
+        },
+        "branch": "main"
+    },
+    "org": {
+        "id": "1b48e2c4-6ca8-455f-a73f-d2f6f2a6b225",
+        "name": "Angrydome",
+        "slug": "angrydome",
+        "url": "https://app.snyk.io/org/angrydome",
+        "group": null,
+        "created": "2021-01-20T16:11:12.296Z"
+    },
+    "newIssues": []
+}
